@@ -4,11 +4,10 @@
 - 🌱 **A Fullstack Developer & A UI/UX Designer**
 - 📫 Reach me at: **praveen.kumar835302@gmail.com**
 
-### 👥 Connect With Me-     <a href="https://www.linkedin.com/in/praveen-kumar-ba4421230/" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/praveen-kumar-ba4421230/" style="margin-bottom: 4px;" height="30px"/></a>
-<hr>
+### 👥 Connect With Me
+<a href="https://www.linkedin.com/in/praveen-kumar-ba4421230/" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/praveen-kumar-ba4421230/" style="margin-bottom: 4px;" height="30px"/></a>
 
-<h2> 💻 Skills </h3
-<hr>
+### 💻 Skills
 <p>
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" style="margin-bottom: 4px;" height="30px">
