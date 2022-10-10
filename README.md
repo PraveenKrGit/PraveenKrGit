@@ -1,13 +1,15 @@
-<h2 align="center">Hello!🪶</h2>
+<h2 align="center">Hello 🪶</h2>
 <h1 align="center">I'm Praveen Kumar Yadav</h1>
 
 - 🌱 **A Fullstack Developer & A UI/UX Designer**
 - 📫 Reach me at: **praveen.kumar835302@gmail.com**
 
-<h2 align="center">🪲 Contact Me : </h2>
-<a align="center" href="https://www.linkedin.com/in/praveen-kumar-ba4421230/" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/praveen-kumar-ba4421230/" style="margin-bottom: 4px;" height="30px"/></a>
-
-### 💻 Skills
+<h3 align="center">🪲 Contact Me : </h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/praveen-kumar-ba4421230/" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/praveen-kumar-ba4421230/" style="margin-bottom: 4px;" height="30px"/></a>
+</p>
+  
+## 💻 Skills
 <p>
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" style="margin-bottom: 4px;" height="30px">
