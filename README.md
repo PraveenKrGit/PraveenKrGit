@@ -1,4 +1,4 @@
-<h2 align="center">Hello! 👋</h2>
+<h2 align="center">### Hello! 👋</h2>
 <h1 align="center">I'm Praveen Kumar Yadav</h1>
 
 - 🌱 **A Fullstack Developer & A UI/UX Designer**
