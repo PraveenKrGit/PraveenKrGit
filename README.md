@@ -4,8 +4,8 @@
 - 🌱 **A Fullstack Developer & A UI/UX Designer**
 - 📫 Reach me at: **praveen.kumar835302@gmail.com**
 
-### 🪲 Contact Me :
-<a href="https://www.linkedin.com/in/praveen-kumar-ba4421230/" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/praveen-kumar-ba4421230/" style="margin-bottom: 4px;" height="30px"/></a>
+<h2 align="center">🪲 Contact Me : </h2>
+<a align="center" href="https://www.linkedin.com/in/praveen-kumar-ba4421230/" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/praveen-kumar-ba4421230/" style="margin-bottom: 4px;" height="30px"/></a>
 
 ### 💻 Skills
 <p>
