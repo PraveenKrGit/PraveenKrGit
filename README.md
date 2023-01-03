@@ -3,7 +3,7 @@
 
 - 🌱 **A Fullstack Developer**
 - 🖌️ **Also A UI/UX Designer**
-- 📫 Reach me at: **praveen.kumar835302@gmail.com**📗🔖🖌️🎴
+- 📫 Reach me at: **praveen.kumar835302@gmail.com**
 
 <h3 align="center">🪲 Contact Me : </h3>
 <p align="center">
