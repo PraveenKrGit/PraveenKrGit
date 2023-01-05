@@ -2,7 +2,7 @@
 <h1 align="center">I'm Praveen Kumar Yadav</h1>
 
 - 🌱 **A Fullstack Developer**
-- 🖌️ **Also A UI/UX Designer**
+- 🖌️ **Also An UI/UX Designer**
 - 📫 Reach me at: **praveen.kumar835302@gmail.com**
 
 <h3 align="center">🪲 Contact Me : </h3>
