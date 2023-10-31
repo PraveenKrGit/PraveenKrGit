@@ -1,13 +1,12 @@
-<h2 align="center">Hello 🪶</h2>
-<h1 align="center">I'm Praveen Kumar Yadav</h1>
+# Hi there 🪶 I'm Praveen
 
-- 🌱 **A Fullstack Developer**
-- 🖌️ **Java | React.js | Javascript**
+## I'm a Full Stack Developer 🌱❤️
+- 🖌️ **Java | JavaScript | [@LeetCode](https://leetcode.com/praveen_ps/) Coding 500+ Problems**
 - 📫 Reach me at: **praveen.kumar835302@gmail.com**
 
-<h3 align="center">🪲 Contact Me : </h3>
+### Connect with me: [@LinkedIn](https://www.linkedin.com/in/praveen-kumar-yadav-cse/)
+
 <p align="center">
-<a href="https://www.linkedin.com/in/praveen-kumar-ba4421230/" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/praveen-kumar-ba4421230/" style="margin-bottom: 4px;" height="30px"/></a>
 </p>
   
 ## 💻 Skills
