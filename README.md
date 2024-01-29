@@ -1,7 +1,8 @@
-# Hi there 🪶 I'm Praveen
+# Hey there 🪶 I'm Praveen
 
-## I'm a Full Stack Developer 🌱❤️
-- 🖌️ **Java | JavaScript | [@LeetCode](https://leetcode.com/praveen_ps/) Coding 500+ Problems**
+## I'm a Full Stack Developer ❤️
+- 🖌️ **Java | JavaScript | ReactJs**
+- 🌱 [@LeetCode](https://leetcode.com/praveen_ps/) Coding 600+ Problems
 - 📫 Reach me at: **praveen.kumar835302@gmail.com**
 
 ### Connect with me: [@LinkedIn](https://www.linkedin.com/in/praveen-kumar-yadav-cse/)
